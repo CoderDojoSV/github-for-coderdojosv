@@ -45,6 +45,14 @@ to the operation of our dojos.
 
 ### Team
 
+A team is a subset of an organization on GitHub. In order to belong to an
+organization, you must belong to at least one team. Teams have three levels of
+permissions: read-only, read and write, and admin. There is [a help article on
+the different team permissions][team permissions help]. There is one special
+team in every organization called the **owners** team. It manages all teams and
+repositories in the organization. Teams can be mentioned in conversation on
+GitHub just like individual users.
+
 ### Other nouns
 
 Is there something on GitHub that you don't understand? [Open an issue][] and
@@ -66,4 +74,5 @@ Things to do on GitHub
 [GitHub Glossary]: https://help.github.com/articles/github-glossary#repository
 [Open an issue]: https://github.com/coderdojosv/github-for-coderdojosv/issues/new
 [CoderDojoSV]: https://github.com/coderdojosv/
+[team permissions help]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
 
